@@ -1,6 +1,9 @@
 # PLUGGIT-Dashboard-Code
 Code Schnipsel für euer PLUGGIT Dashboard in Home Assistant
 
+<img width="1899" height="1067" alt="Bildschirmfoto 2025-11-06 um 14 23 58" src="https://github.com/user-attachments/assets/dda83af9-b72d-4746-afae-77912a8bfe9d" />
+
+
 ```
   - type: picture-elements
     image: /local/pluggit-dashboard/pluggit1.png
