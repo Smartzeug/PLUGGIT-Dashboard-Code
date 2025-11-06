@@ -5,9 +5,9 @@ Code Schnipsel für euer PLUGGIT Dashboard in Home Assistant
 
 
 ```
-  - type: picture-elements
-    image: /local/pluggit-dashboard/pluggit1.png
-    elements:
+type: picture-elements
+image: /local/pluggit-dashboard/pluggit1.png
+elements:
       - type: image
         entity: sensor.pluggit_filterrestlaufzeit_niveau
         state_image:
